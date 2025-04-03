@@ -6,7 +6,6 @@ dist
 npm-debug.log*
 yarn.lock
 .env
-.vscode
 .idea
 
 venv
@@ -21,3 +20,7 @@ __pycache__/
 
 output.csv
 _doctools/*.csv
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
